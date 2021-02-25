@@ -43,11 +43,11 @@ I am a passionate civil engineer working hard to become a developer
 
 ### 👨‍💻&nbsp;My Projects</h4>
 
-##### <a href="https://platzi-master.dflores.dev/">💻 LIVEHOME</a>
+<a href="https://farodev-live-home.herokuapp.com/">💻 LIVEHOME</a>
 
 <p>Livehome is an app where you can publish, sell , rent and find a new place for living. Livehome is the link between owners and buyers. <br>
 <a href="https://github.com/faroDev/LiveHome">Repository here</a></p>
-##### <a href="https://platzi-master.dflores.dev/">💻 PERSIST</a>
+ <a href="https://persist-3cdd8.web.app/persist/login">💻 PERSIST</a>
 <p>Perisist is an PWA where you can control activities linked to construction <br>
 <a href="https://gitlab.com/persistgroup/persist-frontend">Repository here</a></p>
 <!-- links -->
