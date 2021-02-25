@@ -13,7 +13,7 @@ I am a passionate civil engineer working hard to become a developer
 
 ---
 
-### 🚀 Codig
+### 🚀 Coding
 
 <h4>Skills and Tools: </h4>
 <p align="left">
