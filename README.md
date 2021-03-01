@@ -3,7 +3,7 @@
 #### Software Developer & Civil Engineer.
 
 <p align='center'>
-I love learning new things and challenging me everyday because for me, is the only way to grow up in life. Being responsable and responsive  with every problem and trying to give solutions instead of negativism is my nature. 
+I love learning new things and challenging me everyday. Being responsable and responsive  with every problem and trying to give solutions instead of negativism is my nature. 
 I am a passionate civil engineer working hard to become a developer
 </p>
 
