@@ -7,7 +7,7 @@ I love learning new things and challenging me everyday. Being responsable and re
 I am a passionate civil engineer working hard to become a developer
 </p>
 
-- 🔭 I’m working as a **construction director**.
+- 🔭 I’m working as a **Chapter Lead in Ontop**.
 - 🌱 I’m currently preparing professionally with the **Platzi Master program**, a program specialized in providing personalized training to each person for their ideal professional profile in the area of technology.
 - ⚡ Fun fact: I love **coffe**. I want to be barista in my free time.
 
